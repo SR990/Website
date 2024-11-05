@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Dosis:wght@200..800&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Sassy+Frass&family=Sixtyfour+Convergence&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bebas+Neue&family=Dancing+Script:wght@400..700&family=Dosis:wght@200..800&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Sassy+Frass&family=Sixtyfour+Convergence&display=swap');
+.body{
+   
+   
+    background-color: #0A1828;
+    height: auto;
+}
+
+
+.nav-logo{
+    height: 100px;
+    padding-left: 10px;
+    background-color: aliceblue;
+    position:fixed;
+    top: 5px;
+    
+}
+.item-nav{
+    color: #178582;
+    font-family: "Dosis", sans-serif;
+    font-size: 30px;
+   
+    
+}
+.item-nav:hover{
+    color: aliceblue;
+}
+.anchor{
+    margin-left:auto;
+    padding-right: 10px;
+}
+.body-section{
+   
+    height:90vh;
+}
+
+
+.left-body{
+    font-family: "Barlow", sans-serif;
+    font-style: italic;
+    text-align: right;
+    padding-top:20vh ;
+    padding-left: 50px;
+    color:#BFA181;
+    
+   
+
+}
+.right-body{
+    
+        height: 500px;
+        padding-left: 100px;
+    }
+.book-section{
+    height: 50vh;
+}
+
+.head{
+    font-family: "Barlow", sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: larger;
+    letter-spacing: 4px;
+    color: #BFA181;
+}
+
+.mid-book{
+    
+    
+        font-size: x-large;
+        font-family: "Barlow", sans-serif;
+        color: #BFA181;
+    
+    text-align: center;
+    
+}
+.Contact{
+    height: 50vh;
+    
+   
+}
+
+   
+
+
+.address{
+    
+    font-family: "Barlow", sans-serif;
+    color: #BFA181;
+    text-align: center;
+
+}
+.add-head{
+    font-family: "Barlow", sans-serif;
+    color: #BFA181;
+    img{
+        height: 20px;
+    }
+
+}
+.maplogo{
+    img{
+        height: 40px;
+    }
+}
+.justdail{
+    img{
+        height: 30px;
+    }
+}
+.jdlogo:hover{
+    transform: scale(2.5);
+    
+}
+.map:hover{
+    transform: scale(2.5);
+    
+}
+.mob:hover{
+    transform: scale(1.5);
+    
+}
+.wplogo{
+    img{
+        height: 50px;
+    }
+}
+.wap:hover{
+    transform: scale(1.5);
+}
